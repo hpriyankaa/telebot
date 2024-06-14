@@ -2,7 +2,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN: Final = '7203979984:AAFDLD5N7R-K0F352tDjfLyBcLHddVqVNz8'
+TOKEN: Final = 'api_key'
 BOT_USERNAME: Final = 'caketalesbot'
 
 
